@@ -4,6 +4,8 @@ This is a sample book written in Leanpub-Flavored Markdown.
 
 You can download the manuscript folder containing the plain text files from which this book is generated. That way, you can see how everything in this book is actually written.
 
+Here is the download link for a zip file with the manuscript: [https://github.com/leanpub/sample-leanpub-markdown-book/archive/master.zip](https://github.com/leanpub/sample-leanpub-markdown-book/archive/master.zip).
+
 Please note you can find our manual here: [https://leanpub.com/help/manual](https://leanpub.com/help/manual).
 
 We also have a author Help Center here: [http://help.leanpub.com/author-help](http://help.leanpub.com/author-help).
